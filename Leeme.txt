@@ -1,0 +1,4 @@
+Para ejecutar el juego solo haz doble clic en "timber.exe"
+¡Gracias por jugar! :)
+=========================================================
+Programado por Federico Simone.
